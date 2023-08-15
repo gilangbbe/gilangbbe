@@ -10,6 +10,23 @@
 <p>
 <details>
 <summary><h3>My certification:</h3></summary>
+<a href="https://coursera.org/share/0511e8c44065dbd1c475f32dac64237e">
+  <figure>
+  <img src="https://github.com/gilangbbe/gilangbbe/blob/main/SVG/Certificate/IBM%20DATA%20SCIENCE_page-0001.jpg" width="460px" alt="IBM Data Science" title="IBM Data Science"/>
+    <br>
+    <figcaption><strong>IBM Data Science Professional Certificate</strong></figcaption>
+    </br>
+  </figure>
+</a> 
+  <br></br>
+<a href="https://coursera.org/share/0511e8c44065dbd1c475f32dac64237e">
+  <figure>
+  <img src="https://github.com/gilangbbe/gilangbbe/blob/main/SVG/Certificate/IBM%20DATA%20SCIENCE_page-0001.jpg" width="460px" alt="IBM Data Science" title="IBM Data Science"/>
+    <br>
+    <figcaption><strong>IBM Data Science Professional Certificate</strong></figcaption>
+    </br>
+  </figure>
+</a>
   
 </details>
   
