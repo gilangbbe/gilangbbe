@@ -8,28 +8,25 @@
   Hi 👋, I am <strong>Gilang Banyu Biru Erassunu</strong> you can call me <strong>Biru</strong> an enthusiastic and ambitious Data Scientist wannabe, currently pursuing bachelor degree in electrical engineering. I specialized in Data Analysis and Telecommunication. I love to network, join new communities and add value. ✨
 </p>
 <p>
+  
 <details>
 <summary><h3>My certification:</h3></summary>
-<a href="https://coursera.org/share/0511e8c44065dbd1c475f32dac64237e">
-  <figure>
-  <img src="https://github.com/gilangbbe/gilangbbe/blob/main/SVG/Certificate/IBM%20DATA%20SCIENCE_page-0001.jpg" width="460px" alt="IBM Data Science" title="IBM Data Science"/>
+<figure>
+  <img href="https://coursera.org/share/0511e8c44065dbd1c475f32dac64237e" src="https://github.com/gilangbbe/gilangbbe/blob/main/SVG/Certificate/IBM%20DATA%20SCIENCE_page-0001.jpg" width="460px" alt="IBM Data Science" title="IBM Data Science"/>
     <br>
-    <figcaption><strong>IBM Data Science Professional Certificate</strong></figcaption>
+      <figcaption><strong>IBM Data Science Professional Certificate</strong></figcaption>
     </br>
-  </figure>
-</a> 
-  <br></br>
-<a href="https://coursera.org/share/0511e8c44065dbd1c475f32dac64237e">
-  <figure>
-  <img src="https://github.com/gilangbbe/gilangbbe/blob/main/SVG/Certificate/IBM%20DATA%20SCIENCE_page-0001.jpg" width="460px" alt="IBM Data Science" title="IBM Data Science"/>
-    <br>
-    <figcaption><strong>IBM Data Science Professional Certificate</strong></figcaption>
-    </br>
-  </figure>
-</a>
+</figure>
   
+<br></br>
+  
+<figure>
+  <img href="https://coursera.org/share/241cd76b8467565765344771ed58eda8" src="https://github.com/gilangbbe/gilangbbe/blob/main/SVG/Certificate/IBM%20DATA%20ANALYST_page-0001.jpg" width="460px" alt="IBM Data Analyst" title="IBM Data Analyst"/>
+    <br>
+      <figcaption><strong>IBM Data Analyst Professional Certificate</strong></figcaption>
+    </br>
+</figure>
 </details>
-  
 </p>
 
 <!--
