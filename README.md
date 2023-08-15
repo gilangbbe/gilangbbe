@@ -12,7 +12,8 @@
 <details>
 <summary><h3>My certification:</h3></summary>
 <figure>
-  <img href="https://coursera.org/share/0511e8c44065dbd1c475f32dac64237e" src="https://github.com/gilangbbe/gilangbbe/blob/main/SVG/Certificate/IBM%20DATA%20SCIENCE_page-0001.jpg" width="460px" alt="IBM Data Science" title="IBM Data Science"/>
+  <a href="https://coursera.org/share/0511e8c44065dbd1c475f32dac64237e" >
+  <img src="https://github.com/gilangbbe/gilangbbe/blob/main/SVG/Certificate/IBM%20DATA%20SCIENCE_page-0001.jpg" width="460px" alt="IBM Data Science" title="IBM Data Science"/></a>
     <br>
       <figcaption><strong>IBM Data Science Professional Certificate</strong></figcaption>
     </br>
@@ -21,7 +22,8 @@
 <br></br>
   
 <figure>
-  <img href="https://coursera.org/share/241cd76b8467565765344771ed58eda8" src="https://github.com/gilangbbe/gilangbbe/blob/main/SVG/Certificate/IBM%20DATA%20ANALYST_page-0001.jpg" width="460px" alt="IBM Data Analyst" title="IBM Data Analyst"/>
+  <a href="https://coursera.org/share/0511e8c44065dbd1c475f32dac64237e" >
+  <img href="https://coursera.org/share/241cd76b8467565765344771ed58eda8" src="https://github.com/gilangbbe/gilangbbe/blob/main/SVG/Certificate/IBM%20DATA%20ANALYST_page-0001.jpg" width="460px" alt="IBM Data Analyst" title="IBM Data Analyst"/></a>
     <br>
       <figcaption><strong>IBM Data Analyst Professional Certificate</strong></figcaption>
     </br>
