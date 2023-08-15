@@ -5,7 +5,7 @@
   <a href="https://goodreads.com/in/gilangbbe"><img width="59px" height="59px" alt="Goodreads" title="Goodreads" src="https://github.com/gilangbbe/gilangbbe/blob/main/SVG/Goodreads%20logo.png"/></a>
 </p>
 <p>
-  Hi 👋, I am <strong>Gilang Banyu Biru Erassunu</strong> you can call me <strong>Biru</strong> an enthusiastic and ambitious Data Scientist wannabe, currently pursuing bachelor degree in electrical engineering. I specialized in Data Analysis and Telecommunication. I love to network, join new communities and add value. ✨ 
+  Hi 👋, I am <strong>Gilang Banyu Biru Erassunu</strong>, you can call me <strong>Biru</strong>, an enthusiastic and ambitious Data Scientist wannabe, currently pursuing bachelor degree in electrical engineering. I specialized in Data Analysis and Telecommunication. I love to network, join new communities and add value. ✨ 
 <br>📫 Fun fact about me is I love reading so much, especially english classic and murakami's.</br>
 </p>
 <p>
