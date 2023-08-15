@@ -1,4 +1,4 @@
-![Video in Pastel Yellow Brown Bold Style (1)](https://github.com/gilangbbe/gilangbbe/assets/72536588/b0c86cd9-9a63-4b7f-9092-04a9065f86bc)
+<a><img src="https://github.com/gilangbbe/gilangbbe/blob/main/SVG/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.png"/></a>
 
 
 <!--
